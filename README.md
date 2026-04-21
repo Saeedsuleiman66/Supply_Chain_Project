@@ -1,4 +1,5 @@
 🌐 DataCo Smart Supply Chain: End-to-End Analytics & Risk Detection
+
 📖 Project Overview
 This project is an advanced Supply Chain Intelligence System designed to monitor and optimize the global operations of DataCo. It covers the entire data lifecycle: from processing raw, unstructured datasets using Python and SQL, to architecting a high-fidelity Control Tower in Power BI.
 
@@ -29,6 +30,7 @@ Profitability Ratios: Calculating net profit after discounts and taxes.
 Performance Segmentation: Categorizing orders based on delivery success rates.
 
 📊 Comprehensive Dashboard Layouts
+
 🟦 1. Strategic Control Tower
 The "Central Brain" of the project, providing a 360-degree view of global sales, net profit margins, and market trends through interactive geospatial mapping.
 
