@@ -5,6 +5,7 @@ This project is an advanced Supply Chain Intelligence System designed to monitor
 The goal is to provide actionable insights into financial health, logistics efficiency, and security risks, enabling data-driven decision-making at an executive level.
 
 🛠️ Technical Stack & Tools
+
 Python (Pandas/NumPy): Used for data wrangling, handling missing values, and standardizing date formats.
 
 SQL (Spark SQL): Utilized within Databricks for complex business logic, financial calculations, and data modeling.
@@ -12,6 +13,7 @@ SQL (Spark SQL): Utilized within Databricks for complex business logic, financia
 Power BI: Employed for advanced UI/UX design, DAX programming, and AI-driven root cause analysis.
 
 🚀 The Data Pipeline
+
 1. Data Engineering (Python)
 Raw data was cleaned and structured to ensure analytical integrity.
 
